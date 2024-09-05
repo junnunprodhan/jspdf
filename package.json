@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jspdf": "^2.5.1",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^19.0.0"
+  }
+}
